@@ -16,7 +16,7 @@ paginate = 10
 
 [params]
   author = "Matteo Mancini"
-  avatar = "me.png"
+  avatar = "img/me.png"
   description = "A blog about brains, open-source code and (literally) everything in between."
   whoami = "A biomedical engineer, Sir Henry Wellcome Postdoctoral Fellow, on a quest for better brain maps."
   menu_item_separator = " &bull; "
