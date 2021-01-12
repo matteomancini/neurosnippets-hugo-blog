@@ -1,3 +1,37 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://matteomancini.github.io/"
+languageCode = "en-uk"
+title = "NeuroSnippets"
+theme = "hugo-theme-m10c"
+paginate = 10
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  author = "Matteo Mancini"
+  avatar = "me.png"
+  description = "A blog about brains, open-source code and (literally) everything in between."
+  whoami = "A biomedical engineer, Sir Henry Wellcome Postdoctoral Fellow, on a quest for better brain maps."
+  menu_item_separator = " &bull; "
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/matteomancini"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/ingmatman"
+
+  # Orange theme
+  [params.style]
+    primaryColor = "#ff9800"
+    lightColor = "#fff"
+    lightestColor = "#fff"
+
+[markup.goldmark.renderer]
+  unsafe = true
