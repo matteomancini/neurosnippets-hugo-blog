@@ -1,4 +1,4 @@
-baseURL = "http://matteomancini.github.io/"
+baseURL = "https://neurosnippets.com/"
 languageCode = "en-uk"
 title = "NeuroSnippets"
 theme = "hugo-theme-m10c"
