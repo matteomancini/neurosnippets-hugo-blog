@@ -3,6 +3,7 @@ languageCode = "en-uk"
 title = "NeuroSnippets"
 theme = "hugo-theme-m10c"
 paginate = 10
+googleAnalytics = "UA-187589071-1"
 
 [menu]
   [[menu.main]]

@@ -164,6 +164,10 @@ C Mastropasqua, S Bonnì, M Bozzali, **M Mancini**, C Caltagirone, M Cercignani,
 
 ### Invited Talks
 
+22/01/2021  
+"A new ERA for meta-analysis: building Executable Research Articles"  
+Evidence Synthesis \& Meta-Analysis in R Conference (ESMARConf), virtual event
+
 06/12/2019  
 "Chasing brain functional microstructure: a recipe with bucatini"  
 Neuroimaging Seminars, King's College London, London

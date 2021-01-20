@@ -9,7 +9,7 @@ caption = "This is an accessible way to make a glass brain. I would not recommen
 ## Everything looks better with glass
 
 How can we give the deserved credit to white matter pathways in diffusion MRI? Easy: let's throw away everything besides white matter. Jokes aside, tractography can already be a lot to digest, and sometimes we just need a rough reference to understand what we are looking at. If it is true that less is more, glass brains are a simple yet effective idea.
-In this post, I want to explore one way to make a smooth brain: using the average from several brain masks, and then playing around with image operations to obtain a smooth and thin silhouette. A good example of this approach is showed in this [paper](https://academic.oup.com/brain/article/141/3/888/4788771 'Brain - A Journal of Neurology') by Remika Mito and colleagues.
+In this post, I want to explore one way to make a smooth brain proposed by [Thijs Dhollander](https://twitter.com/thijsdhollander 'Thijs Twitter Account'): using the average from several brain masks, and then playing around with image operations to obtain a smooth and thin silhouette. A good example of this approach is showed in this [paper](https://academic.oup.com/brain/article/141/3/888/4788771 'Brain - A Journal of Neurology') by Remika Mito and colleagues.
 
 The overall bash script to generate the glass brain and the related requirements are on the [NeuroSnippets repository](https://github.com/matteomancini/neurosnippets/tree/master/brainviz/glass-brain).
 
