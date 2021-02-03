@@ -26,12 +26,14 @@ My list of publications is also available on my [Google Scholar profile](https:/
 
 KG Schilling, F Rheault, L Petit, CB Hansen, Vi Nath, FC Yeh, G Girard, M Barakovic, J Rafael-Patino, T Yu, E Fischi-Gomez, M Pizzolato, M Ocampo-Pineda, S Schiavi, EJ Canales-Rodríguez, A Daducci, C Granziera, G Innocenti, JP Thiran, L Mancini, S Wastling, S Cocozza, M Petracca, G Pontillo, **M Mancini**, et al. (2020) Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset? *bioRxiv* - <https://doi.org/10.1101/2020.10.07.321083>
 
-T Boshkovski, L Kocarev, J Cohen-Adad, B Misic, S Lehéricy, N Stikov, **M Mancini** (2020) The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure. *bioRxiv* - <https://doi.org/10.1101/2020.08.06.237941>
-
 
 ### Journal Papers
 
-**M Mancini**, A Karakuzu, J Cohen-Adad, M Cercignani, T Nichols, N Stikov (2020) An interactive meta-analysis of MRI biomarkers of myelin. *Elife*, in press - <https://doi.org/10.7554/eLife.61523>
+T Carandini, **M Mancini**, I Bogdan, CL Rae, AW Barritt, A Sethi, N Harrison, W Rashid, E Scarpini, D Galimberti, M Bozzali, M Cercignani (2021) Disruption of brainstem monoaminergic fibre tracts in multiple sclerosis as a putative mechanism for cognitive fatigue: a fixel-based analysis. *NeuroImage: Clinical*, in press.
+
+T Boshkovski, L Kocarev, J Cohen-Adad, B Misic, S Lehéricy, N Stikov, **M Mancini** (2020) The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure. *Network Neuroscience*, in press - <https://doi.org/10.1162/netn_a_00179>
+
+**M Mancini**, A Karakuzu, J Cohen-Adad, M Cercignani, T Nichols, N Stikov (2020) An interactive meta-analysis of MRI biomarkers of myelin. *Elife*, 9: e61523 - <https://doi.org/10.7554/eLife.61523>
 
 **M Mancini**, A Casamitjana, L Peter, E Robinson, S Crampsie, DL Thomas, JL Holton, Z Jaunmuktane, JE Iglesias (2020) A multimodal computational pipeline for 3D histology of the human brain. *Scientific Reports*, 10: 13839 - <https://doi.org/10.1038/s41598-020-69163-z>
 
