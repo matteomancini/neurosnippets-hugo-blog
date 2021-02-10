@@ -1,6 +1,6 @@
 +++
 title =  "Unleashing the dragon: running MRtrix3 in Google Colab"
-tags = ["dMRI", "tips-and-tricks"]
+tags = ["dMRI", "MRtrix3", "tips-and-tricks"]
 date = "2021-02-03"
 image = "img/drive_peek.gif"
 caption = "Just a normal day in [2034](https://www.commitstrip.com/en/2016/12/22/terminal-forever/), browsing through the MRI data in my Google Drive and peeking at it."
