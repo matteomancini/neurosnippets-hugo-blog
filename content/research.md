@@ -24,6 +24,8 @@ My list of publications is also available on my [Google Scholar profile](https:/
 
 ### Preprints
 
+R Gau, S Noble, K Heuer, K Bottenhorn, IP Bilgin, YF Yang, J Huntenburg, JMM Bayer, R Bethlehem, SA Rhoads, C Vogelbacher, V Borghesani, E Levitis, HT Wang, S Van Den Bossche, X Kobeleva, JHL Gorroño, S Guay, MS Atay, GP Varoquaux, D Huijser, M Sandström, P Herholz, SA Nastase, AP Badhwar, G Dumas, S Schwab, S Moia, M Dayan, Y Bassil, PP Brooks, **M Mancini**, et al. (2021) Brainhack: developing a culture of open, inclusive, community-driven neuroscience. *PsyArXiv* - <https://doi.org/10.31234/osf.io/rytjq>
+
 KG Schilling, F Rheault, L Petit, CB Hansen, Vi Nath, FC Yeh, G Girard, M Barakovic, J Rafael-Patino, T Yu, E Fischi-Gomez, M Pizzolato, M Ocampo-Pineda, S Schiavi, EJ Canales-Rodríguez, A Daducci, C Granziera, G Innocenti, JP Thiran, L Mancini, S Wastling, S Cocozza, M Petracca, G Pontillo, **M Mancini**, et al. (2020) Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset? *bioRxiv* - <https://doi.org/10.1101/2020.10.07.321083>
 
 
