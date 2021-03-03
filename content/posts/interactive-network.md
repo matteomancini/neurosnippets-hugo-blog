@@ -1,5 +1,5 @@
 +++
-title =  "Interactive brain networks"
+title =  "Connect, Rotate, Zoom - Interactive brain networks"
 tags = ["python", "brainviz", "plotly"]
 date = "2021-03-03"
 image = "img/network.gif"
