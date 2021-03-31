@@ -24,6 +24,8 @@ My list of publications is also available on my [Google Scholar profile](https:/
 
 ### Preprints
 
+E Levitis, CD Gould van Praag, R Gau, S Heunis, E DuPre, G Kiar, K Bottenhorn, T Glatard, A Nikolaidis, K Whitaker, S Afyouni E Alonso-Ortiz, S Appelhoff, A Arnatkeviciute, SM Atay, T Auer, G Baracchini, J Bayer, M Beauvais, J Bijsterbosch, I Bilgin, S Bollmann, S Bollmann, R Botvinik-Nezer, MG Bright, VD Calhoun, X Chen, S Chopra, H Chuan-Peng, T Close, S Cookson, C Craddock, A De La Vega, B De Leener, DV Demeter, P Di Maio, EW Dickie SB Eickhoff, O Esteban, K Finc, M Frigo, S Ganesan, M Ganz, KG Garner, EA Garza-Villarreal, G Gonzalez-Escamilla, R Goswami, JD Griffiths, T Grootswagers, S Guay, O Guest, DA Handwerker, P Herholz, K Heuer, DC Huijser, V Iacovella, M Joseph, A Karakuzu, D Keator, X Kobeleva, M Kumar, AR Laird, LJ Larson-Prior, A Lautarescu, A Lazari, J Haitz, L Gorroño, XY Li, J Lv, **M Mancini**, et al. (2021) Centering inclusivity in the design of online conferences. *PsyArXiv* - <https://doi.org/10.31234/osf.io/vj5tu>
+
 R Gau, S Noble, K Heuer, K Bottenhorn, IP Bilgin, YF Yang, J Huntenburg, JMM Bayer, R Bethlehem, SA Rhoads, C Vogelbacher, V Borghesani, E Levitis, HT Wang, S Van Den Bossche, X Kobeleva, JHL Gorroño, S Guay, MS Atay, GP Varoquaux, D Huijser, M Sandström, P Herholz, SA Nastase, AP Badhwar, G Dumas, S Schwab, S Moia, M Dayan, Y Bassil, PP Brooks, **M Mancini**, et al. (2021) Brainhack: developing a culture of open, inclusive, community-driven neuroscience. *PsyArXiv* - <https://doi.org/10.31234/osf.io/rytjq>
 
 KG Schilling, F Rheault, L Petit, CB Hansen, Vi Nath, FC Yeh, G Girard, M Barakovic, J Rafael-Patino, T Yu, E Fischi-Gomez, M Pizzolato, M Ocampo-Pineda, S Schiavi, EJ Canales-Rodríguez, A Daducci, C Granziera, G Innocenti, JP Thiran, L Mancini, S Wastling, S Cocozza, M Petracca, G Pontillo, **M Mancini**, et al. (2020) Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset? *bioRxiv* - <https://doi.org/10.1101/2020.10.07.321083>
@@ -31,7 +33,7 @@ KG Schilling, F Rheault, L Petit, CB Hansen, Vi Nath, FC Yeh, G Girard, M Barako
 
 ### Journal Papers
 
-T Carandini, **M Mancini**, I Bogdan, CL Rae, AW Barritt, A Sethi, N Harrison, W Rashid, E Scarpini, D Galimberti, M Bozzali, M Cercignani (2021) Disruption of brainstem monoaminergic fibre tracts in multiple sclerosis as a putative mechanism for cognitive fatigue: a fixel-based analysis. *NeuroImage: Clinical*, in press.
+T Carandini, **M Mancini**, I Bogdan, CL Rae, AW Barritt, A Sethi, N Harrison, W Rashid, E Scarpini, D Galimberti, M Bozzali, M Cercignani (2021) Disruption of brainstem monoaminergic fibre tracts in multiple sclerosis as a putative mechanism for cognitive fatigue: a fixel-based analysis. *NeuroImage: Clinical*, 30: 102587 - <https://doi.org/10.1016/j.nicl.2021.102587>
 
 T Boshkovski, L Kocarev, J Cohen-Adad, B Misic, S Lehéricy, N Stikov, **M Mancini** (2020) The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure. *Network Neuroscience*, in press - <https://doi.org/10.1162/netn_a_00179>
 
@@ -167,6 +169,10 @@ C Mastropasqua, S Bonnì, M Bozzali, **M Mancini**, C Caltagirone, M Cercignani,
 
 
 ### Invited Talks
+
+09/03/2021  
+"Turbo-charging Neurology Research into Clinical Practice" (Panel discussion)  
+Webinar organized by [QMENTA](https://www.qmenta.com)
 
 22/01/2021  
 "A new ERA for meta-analysis: building Executable Research Articles"  

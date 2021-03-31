@@ -13,7 +13,7 @@ After the viva voce in 2017, I joined the Centre for Medical Image Computing (CM
 
 In 2018 I have been awarded a [Sir Henry Wellcome fellowship](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/bamboo-building-meaningful-biomarker-myelin) from the Wellcome Trust for the BaMBoo project, focused on building meaningful biomarkers of myelin. In this project, I am working with Polytechnique Montreal, Cardiff University and University of Sussex. More details about my career are available on the [research page](../research).
 
-When I am not thinking about brains, I like playing around with open-source code, travelling (at least once!), diving in Nintendo videogames, reading Hacker News, and taking pictures (usually in this order). Other random/fun facts: I have two cats, I am in the very slow process of learning Portuguese and I make/bake/cook stuff.
+When I am not thinking about brains, I like playing around with open-source code, travelling (at least when travelling was a thing!), reading Hacker News, looking for old videogames, and taking pictures (usually in this order). Other random/fun facts: I have two cats, I am in the very slow process of learning Portuguese and I make/bake/cook stuff.
 
 
 ### This blog
