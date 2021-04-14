@@ -7,6 +7,9 @@ caption = "Sure, with so many frameworks available coding is much easier, but be
 +++
 
 
+_This is the first part of the dashboard framework comparison. The second part is [here](https://neurosnippets.com/posts/game-of-dashboards-2/#post)._
+
+
 ## A matter of choice?
 
 I'm quite a fan of dashboards (you couldn't tell right?). I think that they offer an interesting _medium_ with a double potential: useful for actual work, especially quality control and exploratory analyses, but also for presentation purposes - a dashboard can become the actual _final product_ of research. It is not surprising then that there are so many choices in terms of dashboard frameworks. Are they all inter-changeable though? Which one should you pick for _that next thing_? There's only one way to answer this question: make the _same_ dashboard using different frameworks.
