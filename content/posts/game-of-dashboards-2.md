@@ -1,7 +1,7 @@
 +++
 title =  "Game of Dashboards: one brain, four frameworks [Part 2: Bokeh, HoloViz]"
 tags = ["dataviz", "python", "bokeh", "holoviz", "fMRI"]
-date = "2021-04-12"
+date = "2021-04-14"
 image = "img/game_of_dashboards_2.svg"
 caption = "Choosing a framework for a dashboard is just another way of posing once again [the general problem](https://xkcd.com/974/)."
 +++
